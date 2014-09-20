@@ -4,25 +4,25 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "8365511de79580e81c22c470da77ae8b",
+    "hash": "1ae21ddff36b05de6c3d3bd23c8f100e",
     "packages": [
         {
             "name": "guzzlehttp/guzzle",
-            "version": "4.1.7",
+            "version": "4.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "448f2c2076cf0fb756230611491c4f7ecb735a29"
+                "reference": "9c4fbbf6457768f5036fbd88f1229f3fca812a5d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/448f2c2076cf0fb756230611491c4f7ecb735a29",
-                "reference": "448f2c2076cf0fb756230611491c4f7ecb735a29",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/9c4fbbf6457768f5036fbd88f1229f3fca812a5d",
+                "reference": "9c4fbbf6457768f5036fbd88f1229f3fca812a5d",
                 "shasum": ""
             },
             "require": {
                 "ext-json": "*",
-                "guzzlehttp/streams": "~1.4",
+                "guzzlehttp/streams": "~2.1",
                 "php": ">=5.4.0"
             },
             "require-dev": {
@@ -36,7 +36,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "4.1-dev"
+                    "dev-master": "4.2-dev"
                 }
             },
             "autoload": {
@@ -69,20 +69,20 @@
                 "rest",
                 "web service"
             ],
-            "time": "2014-08-08 01:30:43"
+            "time": "2014-09-08 22:11:58"
         },
         {
             "name": "guzzlehttp/streams",
-            "version": "1.5.1",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/streams.git",
-                "reference": "fb0d1ee29987c2bdc59867bffaade6fc88c2675f"
+                "reference": "f91b721d73f0e561410903b3b3c90a5d0e40b534"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/streams/zipball/fb0d1ee29987c2bdc59867bffaade6fc88c2675f",
-                "reference": "fb0d1ee29987c2bdc59867bffaade6fc88c2675f",
+                "url": "https://api.github.com/repos/guzzle/streams/zipball/f91b721d73f0e561410903b3b3c90a5d0e40b534",
+                "reference": "f91b721d73f0e561410903b3b3c90a5d0e40b534",
                 "shasum": ""
             },
             "require": {
@@ -94,7 +94,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.5-dev"
+                    "dev-master": "2.0-dev"
                 }
             },
             "autoload": {
@@ -122,7 +122,7 @@
                 "Guzzle",
                 "stream"
             ],
-            "time": "2014-08-10 23:57:01"
+            "time": "2014-08-17 21:15:53"
         },
         {
             "name": "league/geotools",
@@ -315,12 +315,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/nicolopignatelli/valueobjects.git",
-                "reference": "21152a630e5080dbc5508138520cc60f469783ff"
+                "reference": "44dd6feca0429f34fc51f092fe4855f5d1533136"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nicolopignatelli/valueobjects/zipball/21152a630e5080dbc5508138520cc60f469783ff",
-                "reference": "21152a630e5080dbc5508138520cc60f469783ff",
+                "url": "https://api.github.com/repos/nicolopignatelli/valueobjects/zipball/44dd6feca0429f34fc51f092fe4855f5d1533136",
+                "reference": "44dd6feca0429f34fc51f092fe4855f5d1533136",
                 "shasum": ""
             },
             "require": {
@@ -360,7 +360,7 @@
                 }
             ],
             "description": "A PHP library/collection of classes aimed to help developers with domain driven development and the use of immutable objects.",
-            "time": "2014-07-23 16:04:35"
+            "time": "2014-08-27 11:19:37"
         },
         {
             "name": "react/async",
@@ -405,16 +405,16 @@
         },
         {
             "name": "rhumsaa/uuid",
-            "version": "2.7.2",
+            "version": "2.7.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ramsey/uuid.git",
-                "reference": "ccabc07c649fbac6b409fe42439e042232f9db58"
+                "reference": "b976326ca5977d7333f34e3c828ae7c22a49a65a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ramsey/uuid/zipball/ccabc07c649fbac6b409fe42439e042232f9db58",
-                "reference": "ccabc07c649fbac6b409fe42439e042232f9db58",
+                "url": "https://api.github.com/repos/ramsey/uuid/zipball/b976326ca5977d7333f34e3c828ae7c22a49a65a",
+                "reference": "b976326ca5977d7333f34e3c828ae7c22a49a65a",
                 "shasum": ""
             },
             "require": {
@@ -467,21 +467,21 @@
                 "identifier",
                 "uuid"
             ],
-            "time": "2014-07-28 17:51:57"
+            "time": "2014-08-27 22:39:41"
         },
         {
             "name": "symfony/console",
-            "version": "v2.5.3",
+            "version": "v2.5.4",
             "target-dir": "Symfony/Component/Console",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Console.git",
-                "reference": "cd2d1e4bac2206b337326b0140ff475fe9ad5f63"
+                "reference": "748beed2a1e73179c3f5154d33fe6ae100c1aeb1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Console/zipball/cd2d1e4bac2206b337326b0140ff475fe9ad5f63",
-                "reference": "cd2d1e4bac2206b337326b0140ff475fe9ad5f63",
+                "url": "https://api.github.com/repos/symfony/Console/zipball/748beed2a1e73179c3f5154d33fe6ae100c1aeb1",
+                "reference": "748beed2a1e73179c3f5154d33fe6ae100c1aeb1",
                 "shasum": ""
             },
             "require": {
@@ -522,11 +522,11 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "http://symfony.com",
-            "time": "2014-08-05 09:00:40"
+            "time": "2014-08-14 16:10:54"
         },
         {
             "name": "symfony/serializer",
-            "version": "v2.5.3",
+            "version": "v2.5.4",
             "target-dir": "Symfony/Component/Serializer",
             "source": {
                 "type": "git",
@@ -573,16 +573,16 @@
         },
         {
             "name": "willdurand/geocoder",
-            "version": "2.5.0",
+            "version": "2.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/geocoder-php/Geocoder.git",
-                "reference": "50e54f88b539de0ca3864e8e6a48412d1358d8b7"
+                "reference": "830f3653d8a612d39b0e82077902f7e6bc04bd62"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/geocoder-php/Geocoder/zipball/50e54f88b539de0ca3864e8e6a48412d1358d8b7",
-                "reference": "50e54f88b539de0ca3864e8e6a48412d1358d8b7",
+                "url": "https://api.github.com/repos/geocoder-php/Geocoder/zipball/830f3653d8a612d39b0e82077902f7e6bc04bd62",
+                "reference": "830f3653d8a612d39b0e82077902f7e6bc04bd62",
                 "shasum": ""
             },
             "require": {
@@ -590,6 +590,7 @@
             },
             "require-dev": {
                 "geoip/geoip": "~1.13",
+                "geoip2/geoip2": "~0.6",
                 "guzzle/guzzle": "@stable",
                 "kriswallsmith/buzz": "@stable",
                 "zendframework/zend-http": "~2.1"
@@ -598,6 +599,7 @@
                 "ext-curl": "Enabling the curl extension allows you to use the CurlHttpAdapter.",
                 "ext-geoip": "Enabling the geoip extension allows you to use the MaxMindProvider.",
                 "geoip/geoip": "If you are going to use the MaxMindBinaryProvider (conflict with geoip extension).",
+                "geoip2/geoip2": "If you are going to use the GeoIP2DatabaseProvider.",
                 "guzzle/guzzle": "Enabling Guzzle allows you to use the GuzzleHttpAdapter.",
                 "kriswallsmith/buzz": "Enabling Buzz allows you to use the BuzzHttpAdapter.",
                 "zendframework/zend-http": "Enabling Zend Http allows you to use the ZendHttpAdapter."
@@ -605,7 +607,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.5-dev"
+                    "dev-master": "2.7-dev"
                 }
             },
             "autoload": {
@@ -620,8 +622,7 @@
             "authors": [
                 {
                     "name": "William Durand",
-                    "email": "william.durand1@gmail.com",
-                    "homepage": "http://www.willdurand.fr"
+                    "email": "william.durand1@gmail.com"
                 }
             ],
             "description": "The almost missing Geocoder PHP 5.3 library.",
@@ -632,22 +633,22 @@
                 "geocoding",
                 "geoip"
             ],
-            "time": "2014-05-16 09:11:44"
+            "time": "2014-09-14 16:59:43"
         },
         {
             "name": "zendframework/zend-stdlib",
-            "version": "2.3.1",
+            "version": "2.3.3",
             "target-dir": "Zend/Stdlib",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zendframework/Component_ZendStdlib.git",
-                "reference": "c1f4830018b5d4f034d32fa01a9e17ea176f56f6"
+                "reference": "fa33e6647f830d0d2a1cb451efcdfe1bb9a66c33"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://packages.zendframework.com/composer/zendframework-zend-stdlib-c1f4830018b5d4f034d32fa01a9e17ea176f56f6-zip-b43c6b.zip",
-                "reference": "2.3.1",
-                "shasum": "7a094f270de9a54e1bfb2f0772e5f5cba2593475"
+                "url": "https://packages.zendframework.com/composer/zendframework-zend-stdlib-fa33e6647f830d0d2a1cb451efcdfe1bb9a66c33-zip-3307db.zip",
+                "reference": "2.3.3",
+                "shasum": "9ba6087a66196914c6ff6885f78eec7bc7352517"
             },
             "require": {
                 "php": ">=5.3.23"
@@ -678,29 +679,30 @@
                 "BSD-3-Clause"
             ],
             "description": " ",
+            "homepage": "https://github.com/zendframework/zf2",
             "keywords": [
                 "stdlib",
                 "zf2"
             ],
             "support": {
-                "source": "https://github.com/zendframework/Component_ZendStdlib/tree/release-2.3.1"
+                "source": "https://github.com/zendframework/Component_ZendStdlib/tree/release-2.3.3"
             },
-            "time": "2014-04-15 15:28:48"
+            "time": "2014-09-16 22:58:11"
         },
         {
             "name": "zendframework/zend-validator",
-            "version": "2.3.1",
+            "version": "2.3.3",
             "target-dir": "Zend/Validator",
             "source": {
                 "type": "git",
                 "url": "https://github.com/zendframework/Component_ZendValidator.git",
-                "reference": "ac9848e54c6c75de81ee7a82c3187cd25a898990"
+                "reference": "2881dfaff8452d8cbdaa8ad8a9faccce9843fc6a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://packages.zendframework.com/composer/zendframework-zend-validator-ac9848e54c6c75de81ee7a82c3187cd25a898990-zip-3e0882.zip",
-                "reference": "2.3.1",
-                "shasum": "9358878683ad49127ba2bb40e9cf98241c01ab91"
+                "url": "https://packages.zendframework.com/composer/zendframework-zend-validator-2881dfaff8452d8cbdaa8ad8a9faccce9843fc6a-zip-02f502.zip",
+                "reference": "2.3.3",
+                "shasum": "5f5d643ff6beeea896c9e7738c8be09a8f9fdfbf"
             },
             "require": {
                 "php": ">=5.3.23",
@@ -741,29 +743,157 @@
                 "BSD-3-Clause"
             ],
             "description": "provides a set of commonly needed validators",
+            "homepage": "https://github.com/zendframework/zf2",
             "keywords": [
                 "validator",
                 "zf2"
             ],
             "support": {
-                "source": "https://github.com/zendframework/Component_ZendValidator/tree/release-2.3.1"
+                "source": "https://github.com/zendframework/Component_ZendValidator/tree/release-2.3.3"
             },
-            "time": "2014-04-15 15:28:42"
+            "time": "2014-09-16 22:58:11"
         }
     ],
     "packages-dev": [
         {
-            "name": "ocramius/instantiator",
-            "version": "1.1.1",
+            "name": "beberlei/assert",
+            "version": "v1.7",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Ocramius/Instantiator.git",
-                "reference": "8aa99efa86c51319afc26d23254fe6a8b5a5144a"
+                "url": "https://github.com/beberlei/assert.git",
+                "reference": "97515db6b6c8fb254f5c3ce5730cdfa5a1e3fbf4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Ocramius/Instantiator/zipball/8aa99efa86c51319afc26d23254fe6a8b5a5144a",
-                "reference": "8aa99efa86c51319afc26d23254fe6a8b5a5144a",
+                "url": "https://api.github.com/repos/beberlei/assert/zipball/97515db6b6c8fb254f5c3ce5730cdfa5a1e3fbf4",
+                "reference": "97515db6b6c8fb254f5c3ce5730cdfa5a1e3fbf4",
+                "shasum": ""
+            },
+            "require": {
+                "ext-mbstring": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Assert": "lib/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-2-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Benjamin Eberlei",
+                    "email": "kontakt@beberlei.de"
+                }
+            ],
+            "description": "Thin assertion library for input validation in business models.",
+            "keywords": [
+                "assert",
+                "assertion",
+                "validation"
+            ],
+            "time": "2014-01-25 08:48:48"
+        },
+        {
+            "name": "broadway/broadway",
+            "version": "0.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/qandidate-labs/broadway.git",
+                "reference": "cc4a09bb5366f75fae1607080ba6af2c54ba4802"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/qandidate-labs/broadway/zipball/cc4a09bb5366f75fae1607080ba6af2c54ba4802",
+                "reference": "cc4a09bb5366f75fae1607080ba6af2c54ba4802",
+                "shasum": ""
+            },
+            "require": {
+                "beberlei/assert": "~1.6",
+                "php": ">=5.3.3",
+                "rhumsaa/uuid": "~2.4"
+            },
+            "require-dev": {
+                "doctrine/dbal": "~2.4",
+                "doctrine/mongodb": "~1.0",
+                "elasticsearch/elasticsearch": "~1.0",
+                "instaclick/base-test-bundle": "~0.5",
+                "monolog/monolog": "~1.8",
+                "symfony/console": "~2.4",
+                "symfony/proxy-manager-bridge": "~2.4"
+            },
+            "suggest": {
+                "doctrine/dbal": "For the BroadwayBundle (to persist events)",
+                "doctrine/mongodb": "For persisting saga states (required for BroadwayBundle)",
+                "elasticsearch/elasticsearch": "For persisting read models (required for BroadwayBundle)",
+                "psr/log-implementation": "Implementation for PSR3, LoggerInterface",
+                "symfony/console": "For the BroadwayBundle",
+                "symfony/proxy-manager-bridge": "For the BroadwayBundle"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "0.1.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-0": {
+                    "Broadway\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "othillo",
+                    "email": "othillo@othillo.nl"
+                },
+                {
+                    "name": "Alexander",
+                    "email": "iam.asm89@gmail.com"
+                },
+                {
+                    "name": "Qandidate.com",
+                    "homepage": "http://labs.qandidate.com/"
+                },
+                {
+                    "name": "Willem-Jan",
+                    "email": "wjzijderveld@gmail.com"
+                },
+                {
+                    "name": "Emil",
+                    "email": "emil@broekmeulen.com"
+                },
+                {
+                    "name": "Fritsjan",
+                    "email": "fritsjan@qandidate.com"
+                }
+            ],
+            "description": "Infrastructure and testing helpers for creating CQRS and event sourced applications.",
+            "keywords": [
+                "cqrs",
+                "ddd",
+                "domain-driven design",
+                "event sourcing"
+            ],
+            "time": "2014-08-28 14:34:10"
+        },
+        {
+            "name": "ocramius/instantiator",
+            "version": "1.1.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Ocramius/Instantiator.git",
+                "reference": "e24a12178906ff2e7471b8aaf3a0eb789b59f881"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Ocramius/Instantiator/zipball/e24a12178906ff2e7471b8aaf3a0eb789b59f881",
+                "reference": "e24a12178906ff2e7471b8aaf3a0eb789b59f881",
                 "shasum": ""
             },
             "require": {
@@ -805,7 +935,7 @@
                 "constructor",
                 "instantiate"
             ],
-            "time": "2014-08-11 23:48:35"
+            "time": "2014-08-25 14:48:16"
         },
         {
             "name": "ocramius/lazy-map",
@@ -867,29 +997,29 @@
         },
         {
             "name": "phpunit/php-code-coverage",
-            "version": "2.0.10",
+            "version": "2.0.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-code-coverage.git",
-                "reference": "6d196af48e8c100a3ae881940123e693da5a9217"
+                "reference": "53603b3c995f5aab6b59c8e08c3a663d2cc810b7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/6d196af48e8c100a3ae881940123e693da5a9217",
-                "reference": "6d196af48e8c100a3ae881940123e693da5a9217",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-code-coverage/zipball/53603b3c995f5aab6b59c8e08c3a663d2cc810b7",
+                "reference": "53603b3c995f5aab6b59c8e08c3a663d2cc810b7",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3",
-                "phpunit/php-file-iterator": "~1.3.1",
-                "phpunit/php-text-template": "~1.2.0",
-                "phpunit/php-token-stream": "~1.2.2",
-                "sebastian/environment": "~1.0.0",
-                "sebastian/version": "~1.0.3"
+                "phpunit/php-file-iterator": "~1.3",
+                "phpunit/php-text-template": "~1.2",
+                "phpunit/php-token-stream": "~1.3",
+                "sebastian/environment": "~1.0",
+                "sebastian/version": "~1.0"
             },
             "require-dev": {
                 "ext-xdebug": ">=2.1.4",
-                "phpunit/phpunit": "~4.0.14"
+                "phpunit/phpunit": "~4.1"
             },
             "suggest": {
                 "ext-dom": "*",
@@ -928,7 +1058,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2014-08-06 06:39:42"
+            "time": "2014-08-31 06:33:04"
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -1065,45 +1195,44 @@
         },
         {
             "name": "phpunit/php-token-stream",
-            "version": "1.2.2",
+            "version": "1.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/php-token-stream.git",
-                "reference": "ad4e1e23ae01b483c16f600ff1bebec184588e32"
+                "reference": "f8d5d08c56de5cfd592b3340424a81733259a876"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/php-token-stream/zipball/ad4e1e23ae01b483c16f600ff1bebec184588e32",
-                "reference": "ad4e1e23ae01b483c16f600ff1bebec184588e32",
+                "url": "https://api.github.com/repos/sebastianbergmann/php-token-stream/zipball/f8d5d08c56de5cfd592b3340424a81733259a876",
+                "reference": "f8d5d08c56de5cfd592b3340424a81733259a876",
                 "shasum": ""
             },
             "require": {
                 "ext-tokenizer": "*",
                 "php": ">=5.3.3"
             },
+            "require-dev": {
+                "phpunit/phpunit": "~4.2"
+            },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.2-dev"
+                    "dev-master": "1.3-dev"
                 }
             },
             "autoload": {
                 "classmap": [
-                    "PHP/"
+                    "src/"
                 ]
             },
             "notification-url": "https://packagist.org/downloads/",
-            "include-path": [
-                ""
-            ],
             "license": [
                 "BSD-3-Clause"
             ],
             "authors": [
                 {
                     "name": "Sebastian Bergmann",
-                    "email": "sb@sebastian-bergmann.de",
-                    "role": "lead"
+                    "email": "sebastian@phpunit.de"
                 }
             ],
             "description": "Wrapper around PHP's tokenizer extension.",
@@ -1111,20 +1240,20 @@
             "keywords": [
                 "tokenizer"
             ],
-            "time": "2014-03-03 05:10:30"
+            "time": "2014-08-31 06:12:13"
         },
         {
             "name": "phpunit/phpunit",
-            "version": "4.2.0",
+            "version": "4.2.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "58db726aa45fe26bca93f692cb3d77e9a46b7830"
+                "reference": "c28a790620fe30b049bb693be1ef9cd4e0fe906c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/58db726aa45fe26bca93f692cb3d77e9a46b7830",
-                "reference": "58db726aa45fe26bca93f692cb3d77e9a46b7830",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/c28a790620fe30b049bb693be1ef9cd4e0fe906c",
+                "reference": "c28a790620fe30b049bb693be1ef9cd4e0fe906c",
                 "shasum": ""
             },
             "require": {
@@ -1185,20 +1314,20 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2014-08-08 05:13:30"
+            "time": "2014-09-14 09:31:24"
         },
         {
             "name": "phpunit/phpunit-mock-objects",
-            "version": "2.2.0",
+            "version": "2.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit-mock-objects.git",
-                "reference": "42e589e08bc86e3e9bdf20d385e948347788505b"
+                "reference": "b241b18d87a47093f20fae8b0ba40379b00bd53a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit-mock-objects/zipball/42e589e08bc86e3e9bdf20d385e948347788505b",
-                "reference": "42e589e08bc86e3e9bdf20d385e948347788505b",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit-mock-objects/zipball/b241b18d87a47093f20fae8b0ba40379b00bd53a",
+                "reference": "b241b18d87a47093f20fae8b0ba40379b00bd53a",
                 "shasum": ""
             },
             "require": {
@@ -1207,7 +1336,7 @@
                 "phpunit/php-text-template": "~1.2"
             },
             "require-dev": {
-                "phpunit/phpunit": "4.2.*@dev"
+                "phpunit/phpunit": "~4.2"
             },
             "suggest": {
                 "ext-soap": "*"
@@ -1224,9 +1353,6 @@
                 ]
             },
             "notification-url": "https://packagist.org/downloads/",
-            "include-path": [
-                ""
-            ],
             "license": [
                 "BSD-3-Clause"
             ],
@@ -1243,7 +1369,7 @@
                 "mock",
                 "xunit"
             ],
-            "time": "2014-08-02 13:50:58"
+            "time": "2014-09-06 17:32:37"
         },
         {
             "name": "sebastian/comparator",
@@ -1515,17 +1641,17 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v2.5.3",
+            "version": "v2.5.4",
             "target-dir": "Symfony/Component/Yaml",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/Yaml.git",
-                "reference": "5a75366ae9ca8b4792cd0083e4ca4dff9fe96f1f"
+                "reference": "01a7695bcfb013d0a15c6757e15aae120342986f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Yaml/zipball/5a75366ae9ca8b4792cd0083e4ca4dff9fe96f1f",
-                "reference": "5a75366ae9ca8b4792cd0083e4ca4dff9fe96f1f",
+                "url": "https://api.github.com/repos/symfony/Yaml/zipball/01a7695bcfb013d0a15c6757e15aae120342986f",
+                "reference": "01a7695bcfb013d0a15c6757e15aae120342986f",
                 "shasum": ""
             },
             "require": {
@@ -1558,7 +1684,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "http://symfony.com",
-            "time": "2014-08-05 09:00:40"
+            "time": "2014-08-31 03:22:04"
         }
     ],
     "aliases": [],
